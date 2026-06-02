@@ -13,3 +13,4 @@ Creating projects is one of the best ways to learn because it turns theory into 
 
 #JavaScript #WebDevelopment #Delta80 #ShradhaKhapra #SimonSaysGame #DOM #CodingJourney #FrontendDevelopment #LearnToCode #100DaysOfCode
 
+<img src="simon says.png" width="800px" height="800px">
